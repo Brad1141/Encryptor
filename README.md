@@ -1,4 +1,4 @@
-# Encryptor
+# Brad's Encryptor / Decryptor
 
 Hello Friend!
 
