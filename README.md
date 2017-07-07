@@ -21,5 +21,5 @@ Does your Encryption device have real-world applications?
 NOTE: Please DO NOT copy any of these files and render it as your own
 
 
-   
+
 
