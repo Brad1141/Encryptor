@@ -16,7 +16,7 @@ Why did you choose to scramble using three-digit numbers?
   Mainly for two reasons, 1.By using three-digit numbers the text appears longer and more complex than it really is, this in theory should throw off any computer that wishes to decrypt the message. I had considered using four-digit numbers however this makes the encrypted message absurdly long without adding a real benefit in efficiency.   2. It allowed me to apply C# functions to a real-world situation. Like I have previously mentioned I learn best through applying concepts to personal projects, and I personally feel that this was the best way to accomplish this. NOTE: I plan on adding new features to the program, such as encrypting using special characters.     
 
 Does your Encryption device have real-world applications?
-  I admit that I am no cryptographer, but I believe that this project can truly help those who use it and I plan on adding features that will make the encryptor more efficient in the near future. However most devices are capable of encrypting your messages by themselves and I suggest you rely on those instead because they are professionally made, but if you want a fun easy way to encrypt your messages than I believe the Encryptor is perfect for you.
+  I admit that I am no cryptographer, but I believe that this project can truly help those who use it and I plan on adding features that will make the encryptor more efficient in the near future. However most devices are capable of encrypting your messages by themselves and I suggest you rely on those instead because they are professionally made, but if you want a fun, easy way to encrypt your messages than I believe the Encryptor is perfect for you.
 
 NOTE: Please DO NOT copy any of these files and render it as your own
 
