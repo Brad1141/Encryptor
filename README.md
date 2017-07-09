@@ -18,7 +18,8 @@ Why did you choose to scramble using three-digit numbers?
 Does your Encryption device have real-world applications?
   I admit that I am no cryptographer, but I believe that this project can truly help those who use it and I plan on adding features that will make the encryptor more efficient in the near future. However most devices are capable of encrypting your messages by themselves and I suggest you rely on those instead because they are professionally made, but if you want a fun, easy way to encrypt your messages than I believe the Encryptor is perfect for you.
 
-NOTE: Please DO NOT copy any of these files and render it as your own
+NOTE: Please DO NOT copy any of these files and render it as your own 
+Thank you!
 
 
 
