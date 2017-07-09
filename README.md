@@ -7,7 +7,7 @@ Welcome to Brad's Encryptor/Decryptor
   Brad’s Encryptor/Decryptor is a multifunctional cryptography tool that can be used to make your private messages more secure.         First, please note that this project is in its ALPHA stage and I plan to make continuous upgrades in future that will boast the efficiency as well as the security of the device. I am open to suggestions so feel free to leave new ideas that you might have.  As for now I will answer some questions that you might have about the encryptor.
 
 Why did you decide to make an encrypter?
-   I decided to make an encryptor mainly to increase my knowledge on C#. I am a tactile learner at heart, meaning that I learn best by creating projects (such as this one) that can not only help me but also other people as well. By creating the encrypter I was able to refresh my knowledge on StringBuliders, If statements, as well as another important C# functions that substantially developed my skills as a programmer.
+   I decided to make an encryptor mainly to increase my knowledge on C#. I am a tactile learner at heart, meaning that I learn best by creating projects (such as this one) that can not only help me but also other people as well. By creating the encrypter I was able to refresh my knowledge on StringBuliders, If statements, as well as other important C# functions that substantially developed my skills as a programmer.
   	
 How does the Encrypter work?
   (As for now) The Encrypter works by taking the letters in your message and replacing them with three-digit numbers. So a message such as “Encryptor” will look like “330450929311271309757430311” when it has been encrypted. After your message has been encrypted you can take the message to the Decryptor where it will decode the message for you. 
