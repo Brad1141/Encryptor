@@ -53,8 +53,9 @@ namespace ConsoleApp12
             sb.Replace("x", "625");
             sb.Replace("y", "271");
             sb.Replace("z", "570");
+          
 
-            //print the recently encrypted message
+            //print out the recently encrypted message
             Console.WriteLine(sb.ToString() + Environment.NewLine);
 
             //Brief conclusion to congratulate the user and provide them insight on how to decrypt their message
