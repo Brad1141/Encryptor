@@ -53,6 +53,7 @@ namespace ConsoleApp12
             sb.Replace("x", "625");
             sb.Replace("y", "271");
             sb.Replace("z", "570");
+            sb.Replace(" ", "114");
           
 
             //print out the recently encrypted message
